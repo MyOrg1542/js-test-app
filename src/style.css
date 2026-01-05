@@ -23,11 +23,11 @@ input[type="text"] {
     border-radius: 4px;
 }
 
-button {
+
+button[type="submit"] {
     padding: 10px 15px;
     margin-left: 10px;
-    background-color: #007bff;
-    /* changed from #5cb85c (green) to #007bff (blue) */
+    background-color: red;
     color: white;
     border: none;
     border-radius: 4px;
